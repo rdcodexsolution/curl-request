@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "name": "jerry", "email": "jerry@gmail.com", "count":"54" },
+      { "id": 2, "name": "adam", "email": "adam@gmail.com","count":"21" },
+      { "id": 3, "name": "petter", "email": "petter@gmail.com","count":"66" },
+      { "id": 4, "name": "john", "email": "john@gmail.com","count":"88" }
+   ]
+}
